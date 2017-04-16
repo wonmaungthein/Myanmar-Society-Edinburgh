@@ -1,0 +1,92 @@
+  <!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <title>Myanmar Society in Edinburgh</title>
+      <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0-alpha.6/css/bootstrap.min.css'>
+      <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
+      <link rel='stylesheet prefetch' href='https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css'>
+      <link rel="stylesheet" href="css/style.css">
+  </head>
+
+  <body>
+    <style>
+      .img1{
+      height:500px;
+      width:100%;
+    }
+
+      .img2{
+      height:500px;
+      width:100%;
+    }
+
+      .img3{
+      height:500px;
+      width:100%;
+    }
+
+      .img4{
+      height:500px;
+      width:100%;
+    }
+
+      .img5{
+      height:500px;
+      width:100%;
+    }
+
+      .heading{background-color:grey;
+      color:gold;
+      weight:strong;
+      text-align:center;}
+
+      .pagebelow {background-color:#B1B345;
+      text-align:left;
+      vertical-align:middle;
+      display:table-cell;}
+  </style>
+
+  <div>
+    <head>
+        <title>Burmese/Myanmar Society in Edinburgh, Scotland</title>
+        <link rel="stylesheet" type="text/css" href="css/style.css"/>
+    </head>
+  </div>
+
+  <div>
+    <h1 class="heading">Hello everyone,(Minglar Bar/ မင်္ဂလာပါ),
+      Welcome to Myanmar Society in Edinburgh.
+    </h1>
+  </div>
+
+  <div id="slider">
+    <figure>
+     <img class=img1 src="http://asa100.com/workshops/wp-content/uploads/2013/08/burma-2012-001.jpg"alt="Smiles on the face of novinces">
+
+     <img class=img2 src="http://asa100.com/workshops/wp-content/uploads/2013/08/burma_workshop198.jpg"alt="Paloun Lady with long neck">
+
+     <img class=img3 src="http://asa100.com/workshops/wp-content/uploads/2013/08/burma_workshop008.jpg"alt="Paloun Lady with long neck">
+
+     <img class=img4 src="http://www.placestoseeinyourlifetime.com/wp-content/uploads/2014/04/Anuparb-Papapan3.jpg"alt="Suley Pagoda and Yangon city hall">
+
+     <img class=img5 src="http://www.garudacompetition.com/image.php/138482108d271ed9494e.?width=450&image=//imageuploaded/138482108d271ed9494e."alt="Two nuns reading in Burma">
+    </figure>
+  </div>
+
+  <div class="pagebelow">
+  <p1>
+    We are a group of people from Myanmar who are currently leaving in Edinburgh.</p1>
+  <p2>
+    We meet up sometime for informal chat, for cooking Burmese traditioanl dishes and to organise culture events.</p2>
+  <p3>
+    We would love to welcome everyone from around the world to drop by when we meet up or drop us a message if you would like to contact with family and students from Burma or any other inquires you would like to make.</p3>
+  <p>We are happy to communicate with you. So, come along and have fun.
+     Thank you so much for reaching us here. We look forward to hearing from you soon. :). Please
+check our facebook page here at <a href="https://www.facebook.com/Edinburgh-University-Myanmar-Burmese-Society-214358042022387/"> Myanmar Society </a></p>
+  </div>
+
+  <div class="container-fluid">
+  <div class="row">
+  </body>
+</html>
